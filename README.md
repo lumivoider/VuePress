@@ -6,7 +6,7 @@
 ## 使用方式
 * 克隆代码
 ```
-git clone
+git clone https://github.com/lumivoider/VuePress.git
 ```
 * 安装包
 ```
